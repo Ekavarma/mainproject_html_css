@@ -246,6 +246,9 @@ header{
 
 .categories{
     margin-top:100px;
+    display: flex;
+    flex-direction: column;
+    gap:30px;
 }
 
 
@@ -258,6 +261,9 @@ header{
 
 .categories1{
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
 }
 
 .categories2_2{
